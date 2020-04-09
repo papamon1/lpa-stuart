@@ -12,6 +12,8 @@ const {
   
   const httpClient = new HttpClient(auth)
 
+  console.log( 'me saco la pita, me pongo palote' );
+
  // console.log(httpClient)
 
   // const job = {
