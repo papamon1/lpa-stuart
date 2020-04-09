@@ -1,0 +1,15 @@
+{
+  "name": "lpa-stuart",
+  "version": "1.0.0",
+  "description": "stuart integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PapaMono",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "stuart-client-js": "^1.1.1"
+  }
+}
